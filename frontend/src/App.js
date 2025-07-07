@@ -6,7 +6,7 @@ function App() {
   const [status, setStatus] = useState("loading");
   const [isRunning, setIsRunning] = useState(false);
 
-const API_BASE = "https://seven-stars-work.loca.lt";
+const API_BASE = "https://samridhibot.loca.lt";
 
 
   const fetchStatus = async () => {
